@@ -2,7 +2,7 @@
 /**
  * Plugin Name: SETUP Global Menu
  * Description: Places a simple HTML based global menu on the footer
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Mark Corpuz
  * Author URI: https://markcorpuz.com/
  * Network: true

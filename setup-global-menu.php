@@ -36,7 +36,7 @@ function setup_global_menu() {
 				<li class="menu-item"><a href="https://setup.basestructure.com/">setup.BSR</a> | <a href="https://setup.basestructure.local/">LOCAL</a></li>
 			</ul>
 		</div>
-		<div>
+		<div class="margin-right margin-bottom">
 			<div class="fontsize-smaller margin-bottom" style="font-weight:700;">SETUP</div>
 			<ul class="fontsize-smaller menu">
 				<li class="menu-item"><a href="https://setup.basestructure.com/">setup.BSR</a> | <a href="https://setup.basestructure.local/">LOCAL</a></li>
@@ -48,6 +48,13 @@ function setup_global_menu() {
 						<li class="menu-item"><a href="https://theme-setup.basestructure.com/content-default/">/content-default</a> | <a href="https://theme-setup.basestructure.local/content-default/">LOCAL</a></li>
 					</ul>
 				</li>
+			</ul>
+		</div>
+		<div class="margin-right margin-bottom">
+			<div class="fontsize-smaller margin-bottom" style="font-weight:700;">MODEL</div>
+			<ul class="fontsize-smaller menu">
+				<li class="menu-item"><a href="https://model-atl.basestructure.com/">model-atl.BSR</a> | <a href="https://model-atl.basestructure.local/">LOCAL</a></li>
+				<li class="menu-item"><a href="https://model-sal.basestructure.com/">model-sal.BSR</a> | <a href="https://model-sal.basestructure.local/">LOCAL</a></li>
 			</ul>
 		</div>
 	</aside>

@@ -41,6 +41,7 @@ function setup_global_menu() {
 			<ul class="fontsize-smaller menu">
 				<li class="menu-item"><a href="https://setup.basestructure.com/">setup.BSR</a> | <a href="https://setup.basestructure.local/">LOCAL</a></li>
 				<li class="menu-item"><a href="https://setup-be.basestructure.com/">setup-be.BSR</a> | <a href="https://setup-be.basestructure.local/">LOCAL</a></li>
+				<li class="menu-item"><a href="https://setup-child.basestructure.com/">setup-child.BSR</a> | <a href="https://setup-child.basestructure.local/">LOCAL</a></li>
 				<li class="menu-item menu-item-has-children">
 					<a href="https://theme-setup.basestructure.com/">theme-setup.BSR</a> | <a href="https://theme-setup.basestructure.local/">LOCAL</a>
 					<ul class="sub-menu">
